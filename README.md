@@ -1,10 +1,10 @@
-### Hello, World 👋  I am Sam!
+### Hello, World 👋  I'm Sam!
 
-A Full-stack Software Engineer with a love of learning, I enjoy studying humans and how we interact with the world. I am always reading about my newest obsession - currently, it's climbing in Scotland. When I'm not tinkering with code, I'm exploring the great outdoors and challenging myself with new adventures, like ridgeline scrambles or long-distance gravel bike-packing. 
+A Full-stack Software Engineer with a love of learning, I enjoy studying humans and how we interact with the world. When I'm not immersed in the digital realm, I am either out with my pack of four dogs, climbing, biking, scrambling, or just stopped in my tracks with the sun on my face, in awe of the beauty of the world. I find inspiration in every moment, usually in the smallest details that are most often overlooked.
 
-- 🌱 I’m currently learning Ruby and Ruby on Rails (and always polishing my knowledge of React.js and Python/Flask)
+- 🌱 I’m currently learning Ruby on Rails (and always polishing my knowledge of React.js and Python/Flask)
 - 💬 Ask me anything related to botany and entomology 🪲🐛🪳
-- ⚡ Fun fact: I love everything about natural history, including (but not limited to) apples, seeds, mushrooms, birds, bugs, and  plants. We have a lot to learn from all the things we take for granted.
+- ⚡ Fun fact: I love everything about natural history, including (but not limited to) apples, seeds, mushrooms, birds, bugs, and  plants. Did you know every seed from every apple will produce a brand new variety of apple that's never existed before?
 
 
 ## Skills and Technologies:
