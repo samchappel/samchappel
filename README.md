@@ -4,7 +4,7 @@ A Full-stack Software Engineer with a love of learning - I enjoy studying humans
 
 - 🌱 I'm always enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head - currently it's Ruby on Rails.
 - 💬 Ask me anything related to botany and entomology 🪲🐛🪳
-- ⚡ Fun fact: I love everything about natural history, including (but not limited to) apples, seeds, mushrooms, birds, bugs, and  plants. Did you know every seed from every apple will produce a brand new variety of apple that's never existed before?
+- ⚡ Fun Fact: The term "bug" in computing was coined when a real moth was found causing issues in a computer system back in 1947. Talk about a literal bug in the system!
 
 
 ## Skills and Technologies:
