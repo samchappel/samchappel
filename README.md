@@ -1,6 +1,6 @@
 ## Hello, World 👋  I'm Sam!
 
-A Full-stack Software Engineer with a love of learning - I enjoy studying humans and how we interact with the world, particularly how we use technology to interact with the natual world. When I'm not immersed in the digital realm, I am either out with my pack of four dogs, climbing, biking, scrambling, or just stopped in my tracks with the sun on my face, in awe of the beauty of the world. I find inspiration in every moment, usually in the smallest details that are most often overlooked.
+A Full-stack Software Engineer with a love of learning - I enjoy studying humans and how we interact with the world, particularly how we use technology to interact with the natural world. When I'm not immersed in the digital realm, I am either out with my pack of four dogs, climbing, biking, scrambling, or just stopped in my tracks, with the sun on my face, in awe of the beauty of the world. I find inspiration in every moment, usually in the smallest details that are most often overlooked.
 
 - 🌱 I'm always enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head - currently it's Ruby on Rails.
 - 💬 Ask me anything related to botany and entomology 🪲🐛🪳
